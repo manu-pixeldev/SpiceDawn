@@ -1,0 +1,12 @@
+{
+  "name": "spice-dawn",
+  "version": "1.0.0",
+  "description": "RTS Spice Dawn prototype",
+  "scripts": {
+    "start": "npx http-server -c-1 -p 3050",
+    "vercel": "vercel dev"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
